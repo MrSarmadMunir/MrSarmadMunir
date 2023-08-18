@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @MrSarmadMunir
-- 🔭   I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
--🌱   I'm currently learning Flutter, Java, JavaScript
--⚡   Fun fact: I love reading.⭐
--🗿   I am one of the early adopters of Flutter.
+- 👋  Hi, I’m @MrSarmadMunir
+- 🔭  i have done my BSCS From HAMDARD UNIVERSITY ISLAMABAD CAMPUS
+- 🔭  I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
+- 🌱  I'm currently learning Flutter, Java, JavaScript
+- ⚡  Fun fact: I love reading.⭐
+- 🗿   I am one of the early adopters of Flutter.
