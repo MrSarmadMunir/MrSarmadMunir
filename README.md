@@ -2,3 +2,4 @@
 - 🔭   I’m currently working on Mobile Application Development (Android, iOS & Cross Platorm)
 -🌱   I'm currently learning Flutter, Java, JavaScript
 -⚡   Fun fact: I love reading.⭐
+-🗿   I am one of the early adopters of Flutter.
